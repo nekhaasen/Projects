@@ -2,7 +2,7 @@
 
 #Overview
 
-This project demonstrates an end-to-end Exploratory Data Analysis (EDA) Workflow on an Airbnb listings database using python. This project focuses on transforming raw data into a clea, reliable dataset and uncoverinf meaningful insights through statistical analysis and data visualization.
+This is a learning project that demonstrates an end-to-end Exploratory Data Analysis (EDA) Workflow on an Airbnb listings database using python. This project focuses on transforming raw data into a clea, reliable dataset and uncoverinf meaningful insights through statistical analysis and data visualization.
 
 The notebook follows a structured data analysis process commonly used in real-world analytics projects, including data inspection, cleaning, validation, feature preparation, and exploratory visulaization.
 
